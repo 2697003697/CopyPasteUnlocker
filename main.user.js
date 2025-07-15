@@ -9,7 +9,7 @@
 // @exclude      https://www.bilibili.com/*
 // @exclude      https://www.bing.com/*
 // @exclude      https://fanyi.*/*
-// @updateURL    https://2697003697.github.io/CopyPasteUnlocker/main.user.js
+// @updateURL    https://raw.githubusercontent.com/2697003697/CopyPasteUnlocker/refs/heads/main/main.user.js
 // @grant        none
 // @run-at       document-start
 // @license      MIT

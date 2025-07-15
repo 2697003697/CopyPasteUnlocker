@@ -3,7 +3,7 @@
 // @namespace    https://github.com/2697003697/CopyPasteUnlocker
 // @version      7.3.3
 // @description  ⭐学习通⭐pta⭐csdn⭐飞书云文档⭐破解所有网站【禁止复制】和【禁止粘贴】限制，支持【模拟人工输入】。反馈邮箱：EchoRunning@outlook.com
-// @author       江宁sama
+// @author       EchoRunning
 // @match        *://*/*
 // @exclude      https://chatgpt.com/*
 // @exclude      https://www.bilibili.com/*
